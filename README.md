@@ -5,6 +5,8 @@
 
 **eventos.js**: É a implementação do cadastro de eventos feito em java script. Está bem similar ao fluxograma, mas não está exatamente igual
 
+
+
 ### Observações:
 _Disponibilizei o pacote: **console-read-write**, necessário para o funcionamento. Como é muito pequeno achei mais prático disponibilizá-lo_
 
